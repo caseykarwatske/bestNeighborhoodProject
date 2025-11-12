@@ -9,5 +9,4 @@
 - Provides populations and the number of citizens within each employment category for every Pittsburgh neighborhood
 ## Team Members
 - Casey Karwatske (cbk37@pitt.edu)
-- Fletcher Saaty (fls26@pitt.edu)
 - Jacob Dabat (jgd60@pitt.edu)
