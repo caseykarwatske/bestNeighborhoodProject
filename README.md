@@ -3,6 +3,8 @@
 ## Datasets
 ### [Aggregate Household Income in the Past 12 Months](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/41d215a7-6baf-4de8-8593-d25c858d3546)
 - Provides the median household income for each neighborhood in Pittsburgh
+### [Monthly Criminal Activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07)
+- Provides a record of crimes committed monthly in each Pittsburgh neighborhood
 ## Team Members
 - Casey Karwatske (cbk37@pitt.edu)
 - Fletcher Saaty (fls26@pitt.edu)
